@@ -1,6 +1,5 @@
 # Sorting in linear time : Radix Sort
 
-- 언제 왜 쓰는지 조사하기
 - non comparison sort
 - n 개의 d 자리 정수들
 - 가장 낮은 자리 수부터 정렬
